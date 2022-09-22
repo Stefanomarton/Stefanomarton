@@ -9,8 +9,6 @@ I'm an indie Italian Chemistry Majoring in Milan University, passionate about te
 
 The small projects you find here are usually built for my needs: I share them here so that maybe someone can get inspired in some configuration especially regarding dotfiles and other software config.
 
-#
-
 # 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanomarton&show_icons=true&theme=dracula)
