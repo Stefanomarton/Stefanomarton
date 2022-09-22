@@ -11,7 +11,7 @@ The small projects you find here are usually built for my needs: I share them he
 
 #
 
-### 📊 Stats
+# 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanomarton&show_icons=true&theme=dracula)
 
