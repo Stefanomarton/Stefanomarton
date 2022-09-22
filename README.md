@@ -4,7 +4,11 @@
 
 
 Hi there !
+
+
 I'm an indie Italian Chemistry Majoring in Milan University, passionate about technology, building my version of the (digital) word one step at time.
+
+
 The small projects you find here are usually built for my needs: I share them here so that maybe someone can get inspired in some configuration especially regarding dotfiles and other software config.
 
 ### 📊 Stats
