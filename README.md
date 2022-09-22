@@ -1,6 +1,6 @@
 # Stefano Marton
 
-**`Digital Craftsman, Chemist`**
+**`Digital Craftsman, Chemist, Arch Linux user (btw) `**
 
 
 ### 📊 Stats
